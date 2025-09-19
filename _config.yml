@@ -24,9 +24,9 @@ repository               : "oabawon/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "kay.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Olakunle S. Abawonse"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am interested in geometry, topology, combinatorics and neural network"
   location         : "Kigali, Rwanda"
   employer         : "African Institute of Mathematical Sciences, Rwanda"
   uri              : # URL
